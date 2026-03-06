@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Ana Carolina</h1>
 
 <p align="center">
-Computer Engineer | Developer
+Computer Engineer | Developer | Software Engineer 
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@ Computer Engineer | Developer
 
 # 👩‍💻 About Me
 
-🎓 Computer Engineering — UTFPR  
-💻 Experience with Python, JavaScript and Web Development  
-🚀 Passionate about technology and innovation  
+🎓 Computer Engineering — **UTFPR**  
+💻 Experience with **Python, JavaScript and Web Development**  
+🚀 Passionate about **technology and innovation**  
 📚 Always learning new tools and frameworks  
 
 ---
@@ -61,7 +61,7 @@ Computer Engineer | Developer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aninha33&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Aninha33&theme=tokyonight"/>
 
 </p>
 
@@ -75,12 +75,20 @@ Computer Engineer | Developer
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="https://www.instagram.com/ana_carolina_33">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:SEUEMAILAQUI">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
 ---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
