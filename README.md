@@ -1,28 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=header"/>
 
 <h1 align="center">Hi 👋 I'm Ana Carolina</h1>
 
 <p align="center">
-Computer Engineer | Developer | Tech Enthusiast
+Computer Engineer | Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Always+learning+new+technologies;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Passionate+about+technology;Welcome+to+my+GitHub!"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Computer Engineering - **UTFPR**
-- 💻 Experience with **Python, JavaScript, React and APIs**
-- 🚀 Passionate about **technology, development and innovation**
-- 📚 Always learning new tools and frameworks
-- 🎯 Looking for opportunities as **Developer / Software Engineer**
+🎓 Computer Engineering — UTFPR  
+💻 Experience with Python, JavaScript and Web Development  
+🚀 Passionate about technology and innovation  
+📚 Always learning new tools and frameworks  
 
 ---
 
-## 🚀 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
@@ -30,15 +29,15 @@ Computer Engineer | Developer | Tech Enthusiast
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
@@ -46,7 +45,7 @@ Computer Engineer | Developer | Tech Enthusiast
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -58,7 +57,7 @@ Computer Engineer | Developer | Tech Enthusiast
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -68,7 +67,7 @@ Computer Engineer | Developer | Tech Enthusiast
 
 ---
 
-## 🌎 Connect with me
+# 🌎 Connect with me
 
 <p align="center">
 
@@ -76,24 +75,12 @@ Computer Engineer | Developer | Tech Enthusiast
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/Aninha33">
-<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:anacrm33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/ana_carolina_33">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
