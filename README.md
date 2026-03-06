@@ -14,7 +14,7 @@ Computer Engineer | Software Developer | Technology Enthusiast
 # 👩‍💻 About Me
 
 🎓 Computer Engineering — **UTFPR**  
-💻 Experience with **Experience in software development, optimization algorithms, embedded systems and hardware systems**  
+💻 Experience with **software development, optimization algorithms, web development and hardware systems**  
 🚀 Passionate about **technology and innovation**  
 📚 Always learning new tools and frameworks  
 
