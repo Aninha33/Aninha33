@@ -7,15 +7,14 @@ Computer Engineer | Software Developer | Technology Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Python+%7C+JavaScript+%7C+React;Building+solutions+with+technology;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Python+%7C+JavaScript+%7C+Optimization+%7C+React;Building+solutions+with+technology;Welcome+to+my+GitHub!" />
 </p>
-
 ---
 
 # 👩‍💻 About Me
 
 🎓 Computer Engineering — **UTFPR**  
-💻 Experience with **Python, JavaScript and Web Development**  
+💻 Experience with **Experience in software development, optimization algorithms, embedded systems and hardware systems**  
 🚀 Passionate about **technology and innovation**  
 📚 Always learning new tools and frameworks  
 
