@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋 I'm Ana Carolina</h1>
 
 <p align="center">
-Computer Engineer | Developer | Software Engineer 
+Computer Engineer | Software Developer | Technology Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Passionate+about+technology;Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Python+%7C+JavaScript+%7C+React;Building+solutions+with+technology;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -35,33 +35,11 @@ Computer Engineer | Developer | Software Engineer
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-6A0DAD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aninha33&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninha33&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aninha33&theme=tokyonight"/>
 
 </p>
 
@@ -72,15 +50,15 @@ Computer Engineer | Developer | Software Engineer
 <p align="center">
 
 <a href="https://linkedin.com/in/anac-miranda">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/ana_carolina_33">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAILAQUI">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:anacmiranda@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
