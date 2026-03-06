@@ -22,9 +22,7 @@ Computer Engineer | Software Developer | Technology Enthusiast
 ---
 # 🧠 Tech Stack
 
-### 💻 Programming
-
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -38,14 +36,6 @@ Computer Engineer | Software Developer | Technology Enthusiast
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-</p>
-
----
-
-### 🌐 Web Development
-
-<p>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,71 +44,25 @@ Computer Engineer | Software Developer | Technology Enthusiast
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-</p>
-
----
-
-### 📊 Data & Python Libraries
-
-<p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-</p>
-
----
-
-### 🗄️ Databases
-
-<p>
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</p>
-
----
-
-### ⚙️ Hardware & Embedded
-
-<p>
-
 <img src="https://img.shields.io/badge/VHDL-6A0DAD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/FPGA-F58220?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-</p>
-
----
-
-### 🧠 Optimization & Modeling
-
-<p>
-
-<img src="https://img.shields.io/badge/Operations%20Research-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Mathematical%20Modeling-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gurobi-8B0000?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🖥️ Systems & Tools
-
-<p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gurobi-8B0000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
