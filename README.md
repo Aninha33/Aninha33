@@ -9,7 +9,7 @@ Computer Engineer | Software Developer | Technology Enthusiast
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Python+%7C+JavaScript+%7C+Optimization+%7C+React;Building+solutions+with+technology;Welcome+to+my+GitHub!" />
 </p>
----
+
 
 # 👩‍💻 About Me
 
@@ -18,7 +18,6 @@ Computer Engineer | Software Developer | Technology Enthusiast
 🚀 Passionate about **technology and innovation**  
 📚 Always learning new tools and frameworks  
 
----
 # 🧠 Tech Stack
 
 <p align="center">
@@ -66,10 +65,4 @@ Computer Engineer | Software Developer | Technology Enthusiast
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
 </p>
----
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
