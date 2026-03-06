@@ -23,7 +23,9 @@ Computer Engineer | Software Developer | Technology Enthusiast
 
 # 🧠 Tech Stack
 
-<p align="center">
+### 💻 Programming
+
+<p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -35,13 +37,53 @@ Computer Engineer | Software Developer | Technology Enthusiast
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VHDL-6A0DAD?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 
 </p>
+
+---
+
+### ⚙️ Hardware & Embedded Systems
+
+<p>
+
+<img src="https://img.shields.io/badge/VHDL-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-0A0A0A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+</p>
+
+---
+
+### 🌐 Systems & Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>>
 
 ---
 
